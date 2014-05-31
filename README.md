@@ -1,4 +1,4 @@
 test-repo
 =========
 
-testing repository
+This is my initial testing repository for getting to know "git".
